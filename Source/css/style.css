@@ -31,6 +31,12 @@ body {
 .col1 h4 {
     color:#94f956;
 }
+.content {
+    float: right;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
 .header {
     position: fixed;
     display: table;
